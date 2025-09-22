@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 我的博客
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: Demothemes
 language: en
 timezone: ''
 
@@ -66,8 +66,8 @@ index_generator:
 
 # Category & Tag
 default_category: uncategorized
-category_map:
-tag_map:
+category_map: 
+tag_map: 
 
 # Metadata elements
 ## https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
@@ -96,7 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: hexo-theme-cola
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
